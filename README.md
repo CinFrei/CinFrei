@@ -24,4 +24,4 @@ Here are some ideas to get you started:
 
 <br />
 
-![CinFreis github stats](https://github-readme-stats.vercel.app/api?username=CinFrei&show_icons=true&theme=dracula&line_height=28&hide_title=true&hide=stars&hide_border=true&include_all_commits=true&count_private=true)
+![CinFreis github stats](https://github-readme-stats.vercel.app/api?username=CinFrei&show_icons=true&theme=dracula&line_height=28&hide_title=true&hide=stars&hide_border=true&include_all_commits=true)
