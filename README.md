@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 💬 Ask me about (web) design\
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)\
 ⚡ Fun fact: I play pen and paper games, like 
-🐙 Call of Cthulhu  and 🔍 Private Eye.\
+🐙 Call of Cthulhu  and 🔍 Private Eye.
 
 <br />
 
