@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 🔭 I’m currently working on [Everlabs-Website](https://github.com/CinFrei/Everlabs-website)\
-🌱 I’m currently learning JavaScript, React & Flutter\
+🌱 I’m currently learning Python and Flutter\
 💬 Ask me about (web) design\
 📫 How to reach me: [LinkedIn](https://www.linkedin.com/feed/?trk=guest_homepage-basic_nav-header-signin)\
 ⚡ Fun fact: I play pen and paper games, like 
